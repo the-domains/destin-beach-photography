@@ -1,0 +1,28 @@
+name: Destin Beach Photography
+favicon: null
+layout_spectrum: 0.20133281988091767
+typography_spectrum: 0.04987896396778524
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.25249273097142577
+  lightness: 0.7121893966104835
+  saturation: 0.8948943135328591
+  rhythmicContrast: 0.3810499848332256
+purpose: []
